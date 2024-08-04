@@ -12,6 +12,8 @@ Job Seeker
 - Apply for Jobs: Submit applications for job listings.
 - Profile Management: Update personal and professional information.
   Recruiter
+
+Recruter
 - Post Jobs: Create and manage job listings.
 - View Applicants: Access details of job seekers who have applied for positions.
 
